@@ -32,15 +32,15 @@ header img {
   margin-top: 0px;
   width: auto;
   text-align: center;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  border-top: 1px solid #2C2A2B;
+  border-bottom: 1px solid #2C2A2B;
   padding: 10px;
   background-color: white;
 }
 
 #page-select-option {
   padding: 50px;
-  color: black;
+  color: #2C2A2B;
 }
 
 .new-container {
@@ -62,4 +62,13 @@ header img {
 .info-container {
   width: 50%;
   display: inline-block;
+}
+
+#code-type {
+  background-color: #2C2A2B;
+  box-shadow: none;
+}
+
+#code-name {
+  color: white;
 }
